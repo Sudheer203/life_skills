@@ -2,26 +2,29 @@
 
 ### Which points were new to you?
 
-Some points that were new to me: 
+New points for me:  
 
-- Writing down all requirements and sharing them if there is no tool like Trello or Jira.
-  
-- Always over-communicating even for small issues like no internet or delays. 
- 
-- Using tools like Loom, Codepen, or Github Gists to explain problems clearly.
-  
-- Preparing questions in a single message instead of sending many messages.
-  
-- Tips for deep focus like keeping phone silent, blocking social media, and tracking time with apps.
+- Write down all requirements and share them if no tool like Trello or Jira. 
+   
+- Tell the team about small issues like no internet or delays.
+    
+- Use tools like Loom, Codepen, or Github Gists to explain problems.
+   
+- Send all questions in one message instead of many messages. 
+   
+- Keep focus by silencing phone, blocking social media, and tracking time.
+
 
 ### Which area do you think you need to improve on? What are your ideas to make progress in that area?
 
 I want to improve: **Asking questions and communicating better**
 
-- Prepare clear questions with screenshots or code examples. 
- 
-- Consolidate all questions in one message instead of sending multiple messages.
+- Ask clear questions with screenshots or code examples. 
+   
+- Send all questions together in one message.
+    
+- Give the team regular updates about progress or issues.  
   
-- Make it a habit to update the team on progress and issues regularly.
+- Join meetings a few minutes early to talk with teammates.
   
-- Join meetings a few minutes early to interact more with team members.  
+  ---
