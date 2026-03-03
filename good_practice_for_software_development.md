@@ -18,8 +18,6 @@ Some points that were new to me:
 
 I want to improve: **Asking questions and communicating better**
 
-How I will improve:
-
 - Prepare clear questions with screenshots or code examples. 
  
 - Consolidate all questions in one message instead of sending multiple messages.
